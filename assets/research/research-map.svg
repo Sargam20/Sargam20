@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <title>Research Map</title>
+  <desc>A visual constellation mapping research domains: AI/ML, Computer Vision, Multimodal AI, Physiological AI, Intelligent Transport, Smart Cities, Digital Healthcare, Data Science, Full-Stack Systems.</desc>
+  <style>
+    .bg { fill: transparent; }
+    .link { stroke: #21262D; stroke-width: 1.5; }
+    .node-dot { fill: #58A6FF; }
+    .node-label { font-family: "SFMono-Regular", Consolas, monospace; font-size: 11px; font-weight: 600; fill: #8B949E; letter-spacing: 1px; }
+    .node-label-primary { font-family: "SFMono-Regular", Consolas, monospace; font-size: 13px; font-weight: 700; fill: #F0F6FC; letter-spacing: 1px; }
+    .glow { fill: none; stroke: #8B5CF6; stroke-width: 1; opacity: 0.3; }
+  </style>
+
+  <rect class="bg" width="900" height="300" />
+
+  <g transform="translate(450, 150)">
+    <!-- Links -->
+    <line class="link" x1="0" y1="0" x2="-150" y2="-80" />
+    <line class="link" x1="0" y1="0" x2="150" y2="-80" />
+    <line class="link" x1="0" y1="0" x2="-250" y2="20" />
+    <line class="link" x1="0" y1="0" x2="250" y2="20" />
+    <line class="link" x1="0" y1="0" x2="-100" y2="100" />
+    <line class="link" x1="0" y1="0" x2="100" y2="100" />
+    <line class="link" x1="-150" y1="-80" x2="-250" y2="20" />
+    <line class="link" x1="150" y1="-80" x2="250" y2="20" />
+    <line class="link" x1="100" y1="100" x2="250" y2="20" />
+    <line class="link" x1="-100" y1="100" x2="-250" y2="20" />
+
+    <!-- Center Node: AI / ML -->
+    <circle class="glow" cx="0" cy="0" r="20" />
+    <circle class="node-dot" cx="0" cy="0" r="6" fill="#8B5CF6" />
+    <text class="node-label-primary" x="0" y="25" text-anchor="middle" fill="#8B5CF6">AI / ML</text>
+
+    <!-- Top Left: Computer Vision -->
+    <circle class="node-dot" cx="-150" cy="-80" r="4" />
+    <text class="node-label" x="-150" y="-95" text-anchor="middle">COMPUTER VISION</text>
+
+    <!-- Top Right: Data Science -->
+    <circle class="node-dot" cx="150" cy="-80" r="4" />
+    <text class="node-label" x="150" y="-95" text-anchor="middle">DATA SCIENCE</text>
+
+    <!-- Far Left: Multimodal AI -->
+    <circle class="node-dot" cx="-250" cy="20" r="5" fill="#22D3EE" />
+    <text class="node-label-primary" x="-250" y="40" text-anchor="middle" fill="#22D3EE">MULTIMODAL AI</text>
+
+    <!-- Far Right: Intelligent Transport -->
+    <circle class="node-dot" cx="250" cy="20" r="5" fill="#58A6FF" />
+    <text class="node-label-primary" x="250" y="40" text-anchor="middle" fill="#58A6FF">INTELLIGENT TRANSPORT</text>
+
+    <!-- Bottom Left: Physiological AI & Digital Healthcare -->
+    <circle class="node-dot" cx="-100" cy="100" r="4" />
+    <text class="node-label" x="-100" y="120" text-anchor="middle">PHYSIOLOGICAL AI</text>
+    <text class="node-label" x="-100" y="135" text-anchor="middle">DIGITAL HEALTHCARE</text>
+
+    <!-- Bottom Right: Smart Cities & Full-Stack Systems -->
+    <circle class="node-dot" cx="100" cy="100" r="4" />
+    <text class="node-label" x="100" y="120" text-anchor="middle">SMART CITIES</text>
+    <text class="node-label" x="100" y="135" text-anchor="middle">FULL-STACK SYSTEMS</text>
+  </g>
+</svg>

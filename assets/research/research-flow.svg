@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <title>Research Flow: Data to Systems</title>
+  <desc>A flow diagram showing Sargam Sharma's workflow from Data to Models to Intelligence to Systems to Real World.</desc>
+  <style>
+    .bg { fill: transparent; }
+    .node-bg { fill: #0D1117; stroke: #21262D; stroke-width: 1.5; rx: 16; }
+    .node-text { font-family: "SFMono-Regular", Consolas, monospace; font-size: 12px; font-weight: 600; fill: #F0F6FC; letter-spacing: 1px; text-anchor: middle; }
+    .line { stroke: #58A6FF; stroke-width: 1.5; opacity: 0.5; }
+    .arrow { fill: #58A6FF; opacity: 0.5; }
+    .highlight { stroke: #8B5CF6; stroke-width: 1.5; }
+  </style>
+
+  <rect class="bg" width="900" height="200" />
+
+  <g transform="translate(30, 80)">
+    <!-- Data Node -->
+    <rect class="node-bg" x="0" y="0" width="100" height="32" />
+    <text class="node-text" x="50" y="20">DATA</text>
+
+    <!-- Line 1 -->
+    <line class="line" x1="100" y1="16" x2="160" y2="16" />
+    <polygon class="arrow" points="160,16 154,12 154,20" />
+
+    <!-- Models Node -->
+    <rect class="node-bg" x="160" y="0" width="120" height="32" />
+    <text class="node-text" x="220" y="20">MODELS</text>
+
+    <!-- Line 2 -->
+    <line class="line" x1="280" y1="16" x2="340" y2="16" />
+    <polygon class="arrow" points="340,16 334,12 334,20" />
+
+    <!-- Intelligence Node -->
+    <rect class="node-bg highlight" x="340" y="-4" width="160" height="40" />
+    <text class="node-text" x="420" y="20" fill="#8B5CF6">INTELLIGENCE</text>
+
+    <!-- Line 3 -->
+    <line class="line" x1="500" y1="16" x2="560" y2="16" />
+    <polygon class="arrow" points="560,16 554,12 554,20" />
+
+    <!-- Systems Node -->
+    <rect class="node-bg" x="560" y="0" width="120" height="32" />
+    <text class="node-text" x="620" y="20">SYSTEMS</text>
+
+    <!-- Line 4 -->
+    <line class="line" x1="680" y1="16" x2="740" y2="16" />
+    <polygon class="arrow" points="740,16 734,12 734,20" />
+
+    <!-- Real World Node -->
+    <rect class="node-bg" x="740" y="-4" width="140" height="40" stroke="#22D3EE" />
+    <text class="node-text" x="810" y="20" fill="#22D3EE">REAL WORLD</text>
+  </g>
+</svg>

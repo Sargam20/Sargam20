@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <title>Let's Build Something Intelligent - Footer</title>
+  <desc>Footer banner for Sargam Sharma's profile with contact information.</desc>
+  <style>
+    .bg { fill: #070A0F; stroke: #21262D; stroke-width: 1; rx: 8; }
+    .title { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif; font-size: 24px; font-weight: 700; fill: #F0F6FC; letter-spacing: 1px; }
+    .subtitle { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14px; fill: #8B949E; }
+    .url { font-family: "SFMono-Regular", Consolas, monospace; font-size: 14px; font-weight: 600; fill: #58A6FF; letter-spacing: 1px; }
+    .links { font-family: "SFMono-Regular", Consolas, monospace; font-size: 12px; font-weight: 600; fill: #F0F6FC; letter-spacing: 1px; opacity: 0.8; }
+    .accent-line { stroke: #58A6FF; stroke-width: 2; }
+  </style>
+
+  <g transform="translate(20, 20)">
+    <rect class="bg" width="860" height="160" />
+    
+    <g transform="translate(50, 45)">
+      <line class="accent-line" x1="0" y1="0" x2="30" y2="0" />
+      <text x="0" y="30" class="title">LET'S BUILD SOMETHING</text>
+      <text x="0" y="60" class="title">INTELLIGENT.</text>
+      
+      <text x="0" y="100" class="subtitle">Research collaborations · AI/ML · Engineering</text>
+    </g>
+
+    <g transform="translate(550, 60)">
+      <text x="0" y="0" class="url">SARGAMSHARMA.ME</text>
+      <text x="0" y="35" class="links">GitHub · LinkedIn · ORCID · Email</text>
+    </g>
+  </g>
+</svg>
