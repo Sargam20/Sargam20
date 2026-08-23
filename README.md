@@ -164,21 +164,21 @@
 
 <div align="center">
   <a href="https://github.com/Sargam20/Janani-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=Janani-AI&theme=algolia" alt="Janani-AI" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Sargam20&repo=Janani-AI&theme=algolia" alt="Janani-AI" />
   </a>
   <a href="https://github.com/Sargam20/Jumta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=Jumta&theme=algolia" alt="Jumta" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Sargam20&repo=Jumta&theme=algolia" alt="Jumta" />
   </a>
   <br>
   <a href="https://github.com/Sargam20/PhysioFM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=PhysioFM&theme=algolia" alt="PhysioFM" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Sargam20&repo=PhysioFM&theme=algolia" alt="PhysioFM" />
   </a>
   <a href="https://github.com/Sargam20/TrailMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=TrailMatch&theme=algolia" alt="TrailMatch" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Sargam20&repo=TrailMatch&theme=algolia" alt="TrailMatch" />
   </a>
   <br>
   <a href="https://github.com/Sargam20/RouteLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=RouteLens&theme=algolia" alt="RouteLens" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Sargam20&repo=RouteLens&theme=algolia" alt="RouteLens" />
   </a>
 </div>
 
@@ -202,12 +202,6 @@
 
 <div align="center">
   <br>
-  
-  <!-- Trophies -->
-  <a href="https://github.com/Sargam20">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sargam20&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies">
-  </a>
-  <br><br>
   
   <table width="100%" style="border: none;">
     <tr>
