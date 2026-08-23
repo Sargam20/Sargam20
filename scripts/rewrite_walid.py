@@ -1,18 +1,10 @@
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="65%" valign="middle">
-        <h1>Hi! I'm Sargam. 👋</h1>
-        <h3>Data Science & AI Researcher</h3>
-        <p>I am an undergraduate student at IIT Madras (B.S. Data Science), working across machine learning, computer vision, and full-stack engineering.</p>
-        <p>My primary focus is moving AI from models into deployed systems—converting research ideas into practical applications spanning intelligent transportation, digital healthcare, and smart urban mobility.</p>
-        <p>I thrive on solving complex problems that involve creativity and innovation, ensuring that AI creates tangible, real-world impact.</p>
-      </td>
-      <td width="35%" align="center" valign="middle">
-        <img src="assets/brand/hero.png" width="100%">
-      </td>
-    </tr>
-  </table>
+import os
+
+readme_content = """<div align="center">
+  <img src="assets/brand/hero.jpg" width="300" style="border-radius: 50%;">
+  <h1>Hi! I'm Sargam.</h1>
+  <h3>Data Science & AI Researcher</h3>
+  <p>with a passion for building practical intelligent systems from research to robust, real-world applications.</p>
 </div>
 
 <br>
@@ -87,7 +79,7 @@
 <h3 align="center">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-  【﻿Ｐｒｏｊｅｃｔｓ　＆　Ｒｅｐｏｓｉｔｏｒｉｅｓ】  
+  【﻿Ｒｅｓｅａｒｃｈ　＆　Ｐｒｏｊｅｃｔｓ】  
 </h3>
 
 <div align="center">
@@ -97,26 +89,43 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Sargam20/Janani-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=Janani-AI&theme=algolia" alt="Janani-AI" />
-  </a>
-  <a href="https://github.com/Sargam20/Jumta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=Jumta&theme=algolia" alt="Jumta" />
-  </a>
-  <br>
-  <a href="https://github.com/Sargam20/PhysioFM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=PhysioFM&theme=algolia" alt="PhysioFM" />
-  </a>
-  <a href="https://github.com/Sargam20/TrailMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=TrailMatch&theme=algolia" alt="TrailMatch" />
-  </a>
-  <br>
-  <a href="https://github.com/Sargam20/RouteLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sargam20&repo=RouteLens&theme=algolia" alt="RouteLens" />
-  </a>
+  <picture>
+    <img src="assets/research/research-flow.svg" alt="Research workflow" width="100%">
+  </picture>
 </div>
 
 <br>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/research/physiofm.svg" alt="PhysioFM - Multimodal Physiological AI" width="100%">
+      <br><br>
+      <code>✅ VERIFIED</code> &nbsp; <code>🥈 2ND AUTHOR</code>
+      <p align="left"><i>Contactless continuous respiratory monitoring and multimodal representation learning using RGB–Thermal sensing.</i></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/research/semantic-drift.svg" alt="Semantic Drift Before Inference - Vision-Language Security" width="100%">
+      <br><br>
+      <code>✅ VERIFIED</code> &nbsp; <code>🥈 2ND AUTHOR</code>
+      <p align="left"><i>Researching the security and semantic drift of Vision-Language Models before inference.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/research/sentinelai.svg" alt="SentinelAI - Cybersecurity" width="100%">
+      <br><br>
+      <code>⏳ METADATA VERIFYING</code>
+      <p align="left"><i>Cybersecurity research focusing on SSH threat detection and intelligent mitigation.</i></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/research/impact.svg" alt="IMPACT - Intelligent Transportation" width="100%">
+      <br><br>
+      <code>🏆 ACCEPTED — IAUC 2026</code>
+      <p align="left"><i>An open architecture framework for integrating and optimizing intelligent multimodal transportation systems, developed during research at the AMRUT Centre, MNIT Jaipur.</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -158,3 +167,9 @@
   </div>
 
 </div>
+"""
+
+with open("c:/Users/Shashwat Upadhyay/Downloads/sargam readme/README.md", "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+print("README.md rewritten successfully with Walid Bosso styles!")

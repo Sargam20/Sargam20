@@ -1,4 +1,6 @@
-<div align="center">
+import os
+
+readme_content = """<div align="center">
   <table width="100%">
     <tr>
       <td width="65%" valign="middle">
@@ -158,3 +160,9 @@
   </div>
 
 </div>
+"""
+
+with open("c:/Users/Shashwat Upadhyay/Downloads/sargam readme/README.md", "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+print("README.md rewritten successfully with repo links and fixed header!")
