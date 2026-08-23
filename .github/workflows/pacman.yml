@@ -17,12 +17,17 @@ jobs:
     
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: DuyetBKU/viz-pacman-github-profile@master
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: 'github-dark'
-          outputs: dist/pacman-contribution-graph.svg
-      
+          
+      - name: convert pacman to dark mode
+        run: |
+          sed -i 's/fill="#fff"/fill="#0d1117"/g' dist/pacman-contribution-graph.svg || true
+          sed -i 's/fill="white"/fill="#0d1117"/g' dist/pacman-contribution-graph.svg || true
+          sed -i 's/fill="#ffffff"/fill="#0d1117"/g' dist/pacman-contribution-graph.svg || true
+          sed -i 's/fill="#ebedf0"/fill="#161b22"/g' dist/pacman-contribution-graph.svg || true
+          
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
