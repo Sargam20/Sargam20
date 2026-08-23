@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
+  <style>
+    .bg { fill: #0D1117; stroke: #21262D; stroke-width: 1; rx: 8; }
+    .label { font-family: "SFMono-Regular", Consolas, monospace; font-size: 11px; font-weight: 700; fill: #8B949E; letter-spacing: 1.5px; }
+    .domain { font-family: "SFMono-Regular", Consolas, monospace; font-size: 11px; font-weight: 700; fill: #58A6FF; letter-spacing: 1.5px; }
+    .title { font-family: Inter, ui-sans-serif, sans-serif; font-size: 24px; font-weight: 700; fill: #F0F6FC; }
+    .accent { fill: #58A6FF; }
+    .author-badge { font-family: "SFMono-Regular", Consolas, monospace; font-size: 10px; font-weight: 700; fill: #F0F6FC; }
+  </style>
+  <rect class="bg" width="598" height="118" x="1" y="1" />
+  
+  <rect x="0" y="20" width="4" height="80" class="accent" />
+
+  <g transform="translate(30, 35)">
+    <text x="0" y="0" class="domain">02 / MULTIMODAL SECURITY</text>
+    <text x="0" y="30" class="title">Semantic Drift Before Inference</text>
+    <text x="0" y="55" class="label">VISION-LANGUAGE MODEL SECURITY</text>
+    
+    <rect x="0" y="70" width="75" height="18" fill="#58A6FF" rx="4" opacity="0.2" />
+    <text x="8" y="83" class="author-badge" fill="#58A6FF">2ND AUTHOR</text>
+  </g>
+</svg>

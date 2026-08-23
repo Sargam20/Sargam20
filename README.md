@@ -39,26 +39,112 @@ I am an undergraduate student at **IIT Madras** (B.S. Data Science), working acr
 
 ## 02 / RESEARCH
 
+**04 RESEARCH WORKS** — four research works identified; metadata is being independently verified before publication.
+
 <br>
 
-<details open>
-<summary><b>RESEARCH PAPER</b> — IMPACT</summary>
+<div align="center">
+  <picture>
+    <img src="assets/research/domain-physiofm.svg" alt="01 / PHYSIOLOGICAL AI - PhysioFM - 2nd Author" width="100%">
+  </picture>
+</div>
+<details>
+<summary><strong>PhysioFM — Research Details</strong></summary>
 <br>
 
-### IMPACT: An Open Architecture for Intelligent Multimodal Transportation
-`INTELLIGENT TRANSPORTATION` · `IAUC 2026 · ACCEPTED`
+A Diagnostic Framework for Transformer-Based Remote Photoplethysmography.
 
-An open architecture framework for integrating and optimizing intelligent multimodal transportation systems, developed during research at the AMRUT Centre, MNIT Jaipur.
+**Authors:** Shashwat Anil Kumar Upadhyay, Sargam Bijendra Sharma, Prof. Nand Kumar, Dr. Sundeep Kumar  
+**Affiliations:** IIT Madras / MNIT Jaipur / Shah and Anchor Kutchhi Engineering College  
+
+Contactless physiological monitoring using transformer-based remote photoplethysmography (rPPG) and multimodal sensing. Explores robust waveform reconstruction, heart-rate estimation, and respiratory monitoring using RGB and thermal/infrared sensing under varying illumination and motion.
+
+**Research areas:** Remote PPG · Physiological AI · Multimodal Learning · Transformers
 </details>
 
 <br>
 
-*(Two additional collaborative works from the same research period — in multimodal physiological AI and smart urban mobility — are in preparation and will be added with full citation details once publicly verified.)*
+<div align="center">
+  <picture>
+    <img src="assets/research/domain-semantic.svg" alt="02 / MULTIMODAL SECURITY - Semantic Drift Before Inference - 2nd Author" width="100%">
+  </picture>
+</div>
+<details>
+<summary><strong>Semantic Drift Before Inference — Research Details</strong></summary>
+<br>
+
+A Preprocessing Attack Surface in Vision–Language Models.
+
+**Authors:** Shashwat Anil Kumar Upadhyay, Sargam Bijendra Sharma, Dr. Rohan Appasaheb Borgalli, Dr. Rupali Vairagade  
+
+Investigates preprocessing attacks in Vision-Language Models, exploring semantic drift, RGB-to-RGB transformations, and background compositing. Introduces the concept of Semantic Equivalence Verification (SEV) to mitigate Conditional Semantic Drift Attacks across trust boundaries.
+
+**Research areas:** AI Security · Vision–Language Models · Multimodal Security · Adversarial Preprocessing
+</details>
+
+<br>
 
 <div align="center">
-  <br>
   <picture>
-    <img src="assets/research/research-map.svg" alt="Research Map Constellation: AI/ML, Computer Vision, Multimodal AI, Intelligent Transport, Smart Cities, Digital Healthcare, Data Science, Full-Stack Systems" width="100%">
+    <img src="assets/research/domain-sentinel.svg" alt="03 / CYBERSECURITY - SentinelAI - Author Position Verifying" width="100%">
+  </picture>
+</div>
+<details>
+<summary><strong>SentinelAI — Research Details</strong></summary>
+<br>
+
+An Adaptive Behavioral Risk Framework for Real-Time SSH Threat Detection and Automated Response.
+
+Addresses SSH authentication threats, credential stuffing, and automated adversarial tooling using adaptive behavioral risk detection. Employs isolation forests and anomaly detection for zero-day threat identification and automated mitigation through real-time behavioral signals.
+
+**Research areas:** Cybersecurity · Behavioral Risk Detection · SSH Threat Detection · Automated Response
+</details>
+## 02 / RESEARCH WORKS
+
+<br>
+
+<div align="center">
+  <h3>04 RESEARCH WORKS</h3>
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/research/physiofm.svg" alt="PhysioFM - Multimodal Physiological AI" width="100%">
+      <br><br>
+      <code>VERIFIED</code> &nbsp; <code>2ND AUTHOR</code>
+      <p align="left"><i>Contactless continuous respiratory monitoring and multimodal representation learning using RGB–Thermal sensing.</i></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/research/semantic-drift.svg" alt="Semantic Drift Before Inference - Vision-Language Security" width="100%">
+      <br><br>
+      <code>VERIFIED</code> &nbsp; <code>2ND AUTHOR</code>
+      <p align="left"><i>Researching the security and semantic drift of Vision-Language Models before inference.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/research/sentinelai.svg" alt="SentinelAI - Cybersecurity" width="100%">
+      <br><br>
+      <code>METADATA VERIFYING</code>
+      <p align="left"><i>Cybersecurity research focusing on SSH threat detection and intelligent mitigation.</i></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/research/impact.svg" alt="IMPACT - Intelligent Transportation" width="100%">
+      <br><br>
+      <code>ACCEPTED — IAUC 2026</code>
+      <p align="left"><i>An open architecture framework for integrating and optimizing intelligent multimodal transportation systems, developed during research at the AMRUT Centre, MNIT Jaipur.</i></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <picture>
+    <img src="assets/research/research-map.svg" alt="AI / ML → Multimodal Intelligence → Security → Real-World Intelligent Systems" width="100%">
   </picture>
 </div>
 
@@ -212,28 +298,9 @@ An open architecture framework for integrating and optimizing intelligent multim
 ## 08 / ACTIVITY
 
 <div align="center">
-  <a href="https://github.com/Sargam20">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sargam20&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sargam20&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sargam20&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-    </picture>
-  </a>
-  <a href="https://github.com/Sargam20">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargam20&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargam20&layout=compact&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargam20&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
-    </picture>
-  </a>
-  <br>
-  <a href="https://github.com/Sargam20">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sargam20&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sargam20&theme=transparent&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sargam20&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
-    </picture>
-  </a>
+  <br><br><br>
+  <code>ACTIVITY DATA INITIALIZING</code>
+  <br><br><br><br>
 </div>
 
 <br><br>
