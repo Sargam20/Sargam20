@@ -4,8 +4,8 @@ import random
 
 url = "https://komarev.com/ghpvc/?username=Sargam20&style=for-the-badge&color=blue"
 
-# Ping up to 500 times slowly to avoid spam detection
-for i in range(500):
+# Ping up to 1500 times slowly to avoid spam detection
+for i in range(1500):
     try:
         # Cache buster to ensure it's not cached locally or by proxies
         ping_url = f"{url}&_cb={random.randint(1000, 999999)}"
