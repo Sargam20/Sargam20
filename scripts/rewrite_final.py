@@ -1,4 +1,6 @@
-<div align="center">
+import os
+
+readme_content = """<div align="center">
   <table width="100%" style="border: none;">
     <tr>
       <td width="65%" valign="middle">
@@ -244,3 +246,9 @@
   <br>
   <img src="https://media.tenor.com/yU4E7F-x07AAAAAi/banana-dance.gif" width="50px">
 </div>
+"""
+
+with open("c:/Users/Shashwat Upadhyay/Downloads/sargam readme/README.md", "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+print("README.md rewritten successfully!")
