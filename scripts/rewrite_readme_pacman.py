@@ -1,4 +1,6 @@
-<div align="center">
+import os
+
+readme_content = """<div align="center">
 
 <a href="https://SargamSharma.me">
   <img src="assets/brand/hero.jpg" alt="Sargam Sharma 3D Avatar" width="300" style="border-radius: 50%;">
@@ -166,3 +168,9 @@
     </picture>
   </a>
 </div>
+"""
+
+with open("c:/Users/Shashwat Upadhyay/Downloads/sargam readme/README.md", "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+print("README.md rewritten successfully with Pacman structure!")
