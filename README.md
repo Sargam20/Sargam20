@@ -1,47 +1,94 @@
 <div align="center">
-
-<a href="https://SargamSharma.me">
-  <img src="assets/brand/hero.jpg" alt="Sargam Sharma 3D Avatar" width="300" style="border-radius: 50%;">
-</a>
-
-# Hi! I'm Sargam. 👋
-### Data Science & AI Researcher
-
-<img src="https://komarev.com/ghpvc/?username=Sargam20&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br>
-
-**<a href="https://SargamSharma.me">Portfolio</a>**  • 
-**<a href="https://github.com/Sargam20">GitHub</a>**  • 
-**<a href="https://www.linkedin.com/in/sargam-sharma-9664b1301/">LinkedIn</a>**  • 
-**<a href="https://orcid.org/0009-0005-7293-195X">ORCID</a>**  • 
-**<a href="mailto:sargam.sharma1509@gmail.com">Email</a>**
-
-<br>
-
+  <img src="assets/brand/hero.jpg" width="300" style="border-radius: 50%;">
+  <h1>Hi! I'm Sargam.</h1>
+  <h3>Data Science & AI Researcher</h3>
+  <p>with a passion for building practical intelligent systems from research to robust, real-world applications.</p>
 </div>
 
----
+<br>
 
-> [!NOTE]  
-> 🚗 **Intelligent Transportation**: Researching unified fare management and NCMC integration for JUMTA.
+<div align="center">
+  <h1><code>&lt;/&gt;</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>&lt;/&gt;</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>&lt;/&gt;</code></h1>
+</div>
 
-> [!IMPORTANT]  
-> 🫁 **Multimodal Physiological AI**: Exploring contactless continuous respiratory monitoring using RGB-Thermal sensing.
+<br>
 
-> [!TIP]  
-> 👁️ **Computer Vision**: Developing real-time crowd monitoring pipelines using YOLOv11x + DeepSORT.
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛 /&gt;! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> <a href="https://github.com/Sargam20"><img align="right" src="https://komarev.com/ghpvc/?username=Sargam20&style=for-the-badge&color=blue"></a>
+
+> [!CAUTION]
+> - 🔖 Congratulations you found me
+
+<a href="https://github.com/Sargam20">   
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+</a>
+
+> [!NOTE]
+> - 🚙 I'm currently working on **Intelligent Transportation** (NCMC integration) and **Multimodal Physiological AI**.
+
+> [!IMPORTANT]
+> - 📚 I'm currently learning **Advanced Computer Vision** (YOLOv11x, DeepSORT).
 
 > [!WARNING]  
-> 🏙️ **Smart Urban Systems**: Prototyping Digital Twin concepts for smart building intelligence.
+> - 💪🏼 Future Goals: Prototyping Digital Twin concepts for smart building intelligence - Never stop creating new ideas.
+
+> [!TIP]  
+> - 📗 If you're interested in collaborating on AI/ML research or have any questions — I'd love to hear from you!
+
+> <p align="center">
+>   <a href="https://www.linkedin.com/in/sargam-sharma-9664b1301/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+>   <a href="https://SargamSharma.me" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+>   <a href="mailto:sargam.sharma1509@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+>   <a href="https://orcid.org/0009-0005-7293-195X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+> </p>
 
 ---
 
-## 🔬 01 / RESEARCH WORKS
+<br>
+
+<div align="center">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</div>
+
+<h3 align="center">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  【﻿Ｓｋｉｌｌｓ】  
+</h3>
+
+<div align="center">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</div>
+
+<br><br>
+
+| Programming_Languages | Frontend_Tools | Backend_Tools | Data_Related | IDEs/Softwares | Other_Tools |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-070A0F?style=for-the-badge&logo=python&logoColor=3776AB) | ![React](https://img.shields.io/badge/React-070A0F?style=for-the-badge&logo=react&logoColor=61DAFB) | ![FastAPI](https://img.shields.io/badge/FastAPI-070A0F?style=for-the-badge&logo=fastapi&logoColor=009688) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-070A0F?style=for-the-badge&logo=postgresql&logoColor=316192) | ![VSCode](https://img.shields.io/badge/VSCode-070A0F?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4) | ![Git](https://img.shields.io/badge/Git-070A0F?style=for-the-badge&logo=git&logoColor=F05032) |
+| ![Java](https://img.shields.io/badge/Java-070A0F?style=for-the-badge&logo=java&logoColor=ED8B00) | ![Nextjs](https://img.shields.io/badge/Next.js-070A0F?style=for-the-badge&logo=next.js&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-070A0F?style=for-the-badge&logo=flask&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-070A0F?style=for-the-badge&logo=mysql&logoColor=4479A1) | ![Jupyter](https://img.shields.io/badge/Jupyter-070A0F?style=for-the-badge&logo=jupyter&logoColor=F37626) | ![GitHub](https://img.shields.io/badge/GitHub-070A0F?style=for-the-badge&logo=github&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-070A0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Tailwind](https://img.shields.io/badge/Tailwind-070A0F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) | ![Nodejs](https://img.shields.io/badge/Node.js-070A0F?style=for-the-badge&logo=node.js&logoColor=339933) | ![MongoDB](https://img.shields.io/badge/MongoDB-070A0F?style=for-the-badge&logo=mongodb&logoColor=47A248) | ![Figma](https://img.shields.io/badge/Figma-070A0F?style=for-the-badge&logo=figma&logoColor=F24E1E) | ![Docker](https://img.shields.io/badge/Docker-070A0F?style=for-the-badge&logo=docker&logoColor=2496ED) |
+| ![TS](https://img.shields.io/badge/TypeScript-070A0F?style=for-the-badge&logo=typescript&logoColor=3178C6) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-070A0F?style=for-the-badge&logo=bootstrap&logoColor=7952B3) | ![Express](https://img.shields.io/badge/Express-070A0F?style=for-the-badge&logo=express&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-070A0F?style=for-the-badge&logo=sqlite&logoColor=003B57) | ![Postman](https://img.shields.io/badge/Postman-070A0F?style=for-the-badge&logo=postman&logoColor=FF6C37) | ![Vercel](https://img.shields.io/badge/Vercel-070A0F?style=for-the-badge&logo=vercel&logoColor=white) |
+
+---
+
+<div align="center">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</div>
+
+<h3 align="center">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  【﻿Ｒｅｓｅａｒｃｈ　＆　Ｐｒｏｊｅｃｔｓ】  
+</h3>
+
+<div align="center">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</div>
+
+<br>
 
 <div align="center">
   <picture>
-    <img src="assets/research/research-flow.svg" alt="Research workflow from Data and Models to Intelligent Systems and Real-World Applications" width="100%">
+    <img src="assets/research/research-flow.svg" alt="Research workflow" width="100%">
   </picture>
 </div>
 
@@ -80,55 +127,19 @@
 
 ---
 
-## 💻 02 / ENGINEERING WORK
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Sargam20">
-        <img src="assets/projects/vahaannest.svg" alt="VahaanNest — Vehicle Parking Management System" width="100%">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Sargam20">
-        <img src="assets/projects/crowd-management.svg" alt="AI-Based Crowd Management System" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Sargam20">
-        <img src="assets/projects/sparc.svg" alt="SPARC Mobility Scorecard" width="100%">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Sargam20">
-        <img src="assets/projects/nzeb.svg" alt="NZEB Dashboard" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ 03 / SKILLS & TECHNOLOGY
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=[+Skills+]" alt="Skills" />
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </div>
 
-<br>
+<h3 align="center">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  【﻿Ａｃｔｉｖｉｔｙ】  
+</h3>
 
-| Programming_Languages | Frontend_Tools | Backend_Tools | Data_Related | IDEs/Softwares | Other_Tools |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-070A0F?style=for-the-badge&logo=python&logoColor=3776AB) | ![React](https://img.shields.io/badge/React-070A0F?style=for-the-badge&logo=react&logoColor=61DAFB) | ![FastAPI](https://img.shields.io/badge/FastAPI-070A0F?style=for-the-badge&logo=fastapi&logoColor=009688) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-070A0F?style=for-the-badge&logo=postgresql&logoColor=316192) | ![VSCode](https://img.shields.io/badge/VSCode-070A0F?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4) | ![Git](https://img.shields.io/badge/Git-070A0F?style=for-the-badge&logo=git&logoColor=F05032) |
-| ![Java](https://img.shields.io/badge/Java-070A0F?style=for-the-badge&logo=java&logoColor=ED8B00) | ![Nextjs](https://img.shields.io/badge/Next.js-070A0F?style=for-the-badge&logo=next.js&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-070A0F?style=for-the-badge&logo=flask&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-070A0F?style=for-the-badge&logo=mysql&logoColor=4479A1) | ![Jupyter](https://img.shields.io/badge/Jupyter-070A0F?style=for-the-badge&logo=jupyter&logoColor=F37626) | ![GitHub](https://img.shields.io/badge/GitHub-070A0F?style=for-the-badge&logo=github&logoColor=white) |
-| ![JS](https://img.shields.io/badge/JavaScript-070A0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Tailwind](https://img.shields.io/badge/Tailwind-070A0F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) | ![Nodejs](https://img.shields.io/badge/Node.js-070A0F?style=for-the-badge&logo=node.js&logoColor=339933) | ![MongoDB](https://img.shields.io/badge/MongoDB-070A0F?style=for-the-badge&logo=mongodb&logoColor=47A248) | ![Figma](https://img.shields.io/badge/Figma-070A0F?style=for-the-badge&logo=figma&logoColor=F24E1E) | ![Docker](https://img.shields.io/badge/Docker-070A0F?style=for-the-badge&logo=docker&logoColor=2496ED) |
-| ![TS](https://img.shields.io/badge/TypeScript-070A0F?style=for-the-badge&logo=typescript&logoColor=3178C6) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-070A0F?style=for-the-badge&logo=bootstrap&logoColor=7952B3) | ![Express](https://img.shields.io/badge/Express-070A0F?style=for-the-badge&logo=express&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-070A0F?style=for-the-badge&logo=sqlite&logoColor=003B57) | ![Postman](https://img.shields.io/badge/Postman-070A0F?style=for-the-badge&logo=postman&logoColor=FF6C37) | ![Vercel](https://img.shields.io/badge/Vercel-070A0F?style=for-the-badge&logo=vercel&logoColor=white) |
-
----
-
-## 📈 04 / GITHUB ACTIVITY
+<div align="center">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</div>
 
 <div align="center">
   <br>
@@ -153,16 +164,4 @@
     <code>PAC-MAN ANIMATION INITIALIZING</code>
   </div>
 
-</div>
-
-<br><br>
-
-<div align="center">
-  <a href="https://SargamSharma.me">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/brand/footer-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/brand/footer-light.svg">
-      <img src="assets/brand/footer-dark.svg" alt="LET'S BUILD SOMETHING INTELLIGENT." width="100%">
-    </picture>
-  </a>
 </div>
