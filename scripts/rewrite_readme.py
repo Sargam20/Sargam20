@@ -1,4 +1,6 @@
-<div align="center">
+import os
+
+readme_content = """<div align="center">
 
 <a href="https://SargamSharma.me">
   <picture>
@@ -258,3 +260,9 @@ I am an undergraduate student at **IIT Madras** (B.S. Data Science), working acr
     </picture>
   </a>
 </div>
+"""
+
+with open("c:/Users/Shashwat Upadhyay/Downloads/sargam readme/README.md", "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+print("README.md rewritten successfully!")
