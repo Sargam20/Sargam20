@@ -26,7 +26,7 @@
 
 <br>
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛 /&gt;! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> <a href="https://github.com/Sargam20"><img align="right" src="https://komarev.com/ghpvc/?username=Sargam20&style=for-the-badge&color=blue"></a>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛 /&gt;! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> <a href="https://github.com/Sargam20"><img align="right" src="https://komarev.com/ghpvc/?username=Sargam20&style=for-the-badge&color=blue&base=1509"></a>
 
 > [!CAUTION]
 > - 🔖 Congratulations you found me
