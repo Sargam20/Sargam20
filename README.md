@@ -222,18 +222,16 @@
 
   <br>
 
-  <!-- Interactive Pac-Man Contribution Chart -->
+  <!-- Interactive Snake Contribution Chart -->
   <h3>🕹️ GitHub Contribution Graph</h3>
   
   <a href="https://github.com/Sargam20">
     <picture>
-      <!-- Ensure you trigger the pacman action to generate this image! -->
-      <img src="https://raw.githubusercontent.com/Sargam20/Sargam20/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Animation" width="100%" onerror="this.style.display='none'; document.getElementById('pacman-msg').style.display='block';">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sargam20/Sargam20/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sargam20/Sargam20/output/github-contribution-grid-snake.svg">
+      <img src="https://raw.githubusercontent.com/Sargam20/Sargam20/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%">
     </picture>
   </a>
-  <div id="pacman-msg" style="display: none; padding: 20px;">
-    <code>PAC-MAN ANIMATION INITIALIZING</code>
-  </div>
 
   <br>
   <img src="https://media.tenor.com/yU4E7F-x07AAAAAi/banana-dance.gif" width="50px">
